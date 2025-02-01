@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="682716f9-9b3e-4f18-b622-ee4257fd1c46" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="682716f9-9b3e-4f18-b622-ee4257fd1c46" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +41,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "django.template.preview.state": "SHOW_EDITOR",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Chapter-5",
     "last_opened_file_path": "/Users/dimitriosmahairas/Documents/Spring2025/CS2340/Project 1/moviesstore",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -163,7 +161,7 @@
       <workItem from="1738090868151" duration="3601000" />
       <workItem from="1738103103642" duration="1449000" />
       <workItem from="1738362173465" duration="1022000" />
-      <workItem from="1738363964554" duration="7030000" />
+      <workItem from="1738363964554" duration="7345000" />
     </task>
     <servers />
   </component>
