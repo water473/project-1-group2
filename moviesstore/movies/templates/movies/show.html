@@ -4,24 +4,15 @@
 <div class="p-3">
   <div class="container">
     <div class="row mt-3">
-      <div class="col mx-auto mb-3">
-        <h2>List of Movies</h2>
+      <div class="col-md-6 mx-auto mb-3">
+        <h2>{{ template_data.movie.name }}</h2>
         <hr />
+        <p><b>Description:</b> {{ template_data.movie.description }}</p>
+        <p><b>Price:</b> ${{ template_data.movie.price }}</p>
       </div>
-    </div>
-    <div class="row">
-      {% for movie in template_data.movies %}
-      <div class="col-md-4 col-lg-3 mb-2">
-        <div class="p-2 card align-items-center pt-4">
-          <img src="{% static 'img/about.jpg' %}" class="card-img-top rounded">
-          <div class="card-body text-center">
-            <a href="{% url 'movies.show' id=movie.id %}" class="btn bg-dark text-white">
-              {{ movie.name }}
-            </a>
-          </div>
-        </div>
+      <div class="col-md-6 mx-auto mb-3 text-center">
+        <img src="{{ template_data.movie.image.url }}" class="rounded img-card-400" />
       </div>
-      {% endfor %}
     </div>
   </div>
 </div>
