@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="682716f9-9b3e-4f18-b622-ee4257fd1c46" name="Changes" comment="" />
+    <list default="true" id="682716f9-9b3e-4f18-b622-ee4257fd1c46" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-1-group2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/project-1-group2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,12 +35,12 @@
     &quot;assignee&quot;: &quot;duckec&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/water473/project-1-group2&quot;,
-    &quot;accountId&quot;: &quot;a4e22ddb-0531-4300-b443-647e153c2388&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/water473/project-1-group2.git",
+    "accountId": "47dd0648-2ad2-4861-83b5-fc5e3d7f3f8a"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -50,14 +54,15 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "Django Server.moviesstore.executor": "Run",
+    "Django Server.project-1-group2.executor": "Run",
     "Python.manage.executor": "Run",
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
     "django.template.preview.state": "SHOW_EDITOR",
-    "git-widget-placeholder": "chpt10",
-    "last_opened_file_path": "/Users/dimitriosmahairas/Documents/Spring2025/CS2340/Project 1/moviesstore",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/omaralshamsi/Desktop/Spring 2025/CS2340/project-1-group2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -73,7 +78,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Django Server.moviesstore">
+  <component name="RunManager" selected="Django Server.project-1-group2">
     <configuration name="manage (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,6 +157,7 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="moviesstore.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -210,6 +216,7 @@
       <workItem from="1738695562464" duration="56000" />
       <workItem from="1738707164314" duration="1539000" />
       <workItem from="1738770969911" duration="3001000" />
+      <workItem from="1738893370361" duration="1228000" />
     </task>
     <servers />
   </component>
