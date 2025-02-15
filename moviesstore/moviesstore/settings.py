@@ -1,3 +1,4 @@
+import os
 """
 Django settings for moviesstore project.
 
@@ -145,4 +146,9 @@ EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = "1xiaojames@gmail.com"
 EMAIL_HOST_PASSWORD = "tkjr rxhk aafe nbgc"
+
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+MEDIA_URL = '/media/'
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 

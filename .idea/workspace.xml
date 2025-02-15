@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="682716f9-9b3e-4f18-b622-ee4257fd1c46" name="Changes" comment="Chapter 11 Completed: Created two models (Order and Item) they will allow us to store information about users' purchases.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="682716f9-9b3e-4f18-b622-ee4257fd1c46" name="Changes" comment="Changed Header and Footer Colors, Updated the about page" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -257,7 +255,25 @@
       <workItem from="1739596059585" duration="41000" />
       <workItem from="1739596103776" duration="5000" />
       <workItem from="1739596112427" duration="141000" />
+      <workItem from="1739596269973" duration="314000" />
     </task>
+    <task id="LOCAL-00001" summary="Changed Header and Footer Colors, Updated the about page">
+      <option name="closed" value="true" />
+      <created>1739596324591</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739596324591</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Changed Header and Footer Colors, Updated the about page">
+      <option name="closed" value="true" />
+      <created>1739596492915</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739596492915</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,6 +289,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changed Header and Footer Colors, Updated the about page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed Header and Footer Colors, Updated the about page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
