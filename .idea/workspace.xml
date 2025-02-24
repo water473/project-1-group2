@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="682716f9-9b3e-4f18-b622-ee4257fd1c46" name="Changes" comment="Chapter 11 Completed: Created two models (Order and Item) they will allow us to store information about users' purchases." />
+    <list default="true" id="682716f9-9b3e-4f18-b622-ee4257fd1c46" name="Changes" comment="Chapter 11 Completed: Created two models (Order and Item) they will allow us to store information about users' purchases.">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +79,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Django Server.project-1-group">
+  <component name="RunManager" selected="Django Server.moviesstore">
     <configuration name="manage (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -239,6 +243,7 @@
       <workItem from="1738770969911" duration="3001000" />
       <workItem from="1738893370361" duration="1228000" />
       <workItem from="1738895988587" duration="63000" />
+      <workItem from="1739667414126" duration="1630000" />
     </task>
     <servers />
   </component>
