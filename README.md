@@ -6,4 +6,7 @@ TA: Wesley Hu
 None.
 
 ## Website url
-(put url here when created)
+https://group2gatech.pythonanywhere.com/
+
+## Team Website
+https://mahairasd.wixsite.com/movie-store
